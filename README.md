@@ -21,11 +21,11 @@ The project was built as a learning exercise to understand Java web development,
 ---
 
 ## Tech Stack
-- Java (JSP, Servlets)
-- HTML5
-- CSS3
-- Apache Tomcat Server
-- Eclipse IDE
+
+- Backend: Java (JSP, Servlets)
+- Frontend: HTML5, CSS3
+- Server: Apache Tomcat
+- IDE: Eclipse
 
 ---
 
